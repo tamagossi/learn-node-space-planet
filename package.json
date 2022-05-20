@@ -1,6 +1,6 @@
 {
 	"author": "Raka Pratama",
-	"description": "Case study application to learn node",
+	"description": "Space planet application as a case study of basic node",
 	"license": "ISC",
 	"main": "index.js",
 	"name": "space-planets",
