@@ -1,0 +1,15 @@
+{
+	"author": "Raka Pratama",
+	"description": "Case study application to learn node",
+	"license": "ISC",
+	"main": "index.js",
+	"name": "space-planets",
+	"type": "module",
+	"version": "1.0.0",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"dependencies": {
+		"csv-parse": "^5.0.4"
+	}
+}
